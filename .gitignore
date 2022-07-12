@@ -1,0 +1,8 @@
+/node_modules
+/blog-starter
+/master
+
+/.DS_Store
+npm-debug.log
+/.idea
+/.vscode
